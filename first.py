@@ -11,3 +11,10 @@ def fxnsub(s1,s2):
     return s1-s2
 
 print(fxnsub(5,3))
+
+#Task to design a function to multiple 2 nos. 
+
+def mulfxn(m1,m2):
+    return m1*m2
+
+print(mulfxn(2,3))
