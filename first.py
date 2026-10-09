@@ -18,3 +18,10 @@ def mulfxn(m1,m2):
     return m1*m2
 
 print(mulfxn(2,3))
+
+#task to design a function of division of 2 nos. 
+
+def divfxn(d1,d2):
+    return d1/d2
+
+print(divfxn(8,2))
